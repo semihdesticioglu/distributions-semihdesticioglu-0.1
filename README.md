@@ -44,8 +44,8 @@ pip install distributions-semihdesticioglu==0.1
 - Distribution attributes
 
 **Methods:**
-- calculate_mean(): assigns and returns the mean
-- calculate_stdev(): assigns and returns the mean
-- plot_histogram(): plot histogram of data
-- pdf(x): Calculate the probability density
-- plot_histogram_pdf(n_spaces): Plot histogram of the pdf
+- calculate_mean: assigns and returns the mean
+- calculate_stdev: assigns and returns the mean
+- plot_histogram: plot histogram of data
+- pdf: Calculate the probability density
+- plot_histogram_pdf : Plot histogram of the pdf
