@@ -10,6 +10,7 @@ Package is uploaded to PyPi repository.
 ```
 pip install distributions-semihdesticioglu==0.1
 ```
+![Alt text](https://raw.githubusercontent.com/semihnykv/distributions-semihdesticioglu-0.1/main/Pypiorg-capture.JPG "Title")
 
 ## Package Information
 
